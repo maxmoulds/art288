@@ -1,0 +1,5 @@
+Max Moulds
+
+All my files will be web based (github). I will also have local 'trash' copies on my machines along with a periodic 'archive' backup done at 00:00.
+As far as keeping files up-to-date github provides versioning. So anytime I feel I need to save I'll push local to github, and if the design gets too messy I'll be able to pull the current head of the project or any previous commit. 
+Regular backups are scheduled (cron) and also part of the SLA from github (more or less).
