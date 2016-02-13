@@ -1,0 +1,13 @@
+Photoshop - Optimizing Images for the Web
+
+GIF
+Gif images are great for creating very low resolution files for your website. They support transparency, which is great. Transparency allows you to place the gif over any color background or even photos, and you won’t see a border or background in the image. All you will see is the icon.  You typically use a gif for simple logos, icons, or symbols. Using a gif for photos is not recommended, because gifs are limited to 256 colors. In some cases you can use even less. The less colors that are in your image, the smaller your file size will be. Gif files also support a feature called interlacing, which preloads the graphic. It starts out blurry and becomes focused and crisp when it is finished downloading. This makes the transition for your viewer easier, and they don’t have to wait as long to see logos or icons on your site. Gifs also support animation. Gifs don’t support the level of animation that Flash files do, but it still allows you to add movement or transitions to your site, without a lot of programming or coding. More advanced web designers and developers tend to use jQuery to create animated effects. Gif files are also compressed, which gives them a small file size.
+
+
+JPG
+Jpeg files can be relatively small in size, but they still look crisp and beautiful. Jpegs support up to 16.7 million colors, which makes them the right choice for complex images and photographs. With the wide range of colors, you can have beautiful imagery without a bulky file size. With new responsive techniques, you can also have flexible images without large loading times. There are also progressive jpegs, which preload similar to interlaced gifs. They start out blurry, but come into focus as their information loads.
+
+
+PNG
+PNG files were developed to build upon the purpose of gifs. Designers need the ability to incorporate low-resolution images that load quickly but also look great, too. This is where PNG comes in. PNG-8 does not support transparency, but PNG-24 and PNG-32 do. PNG transparency is different from Gif transparency, because they can have different levels of transparency. Gifs are either transparent or opaque. Below is a comparison of how a gif will look if the edges of the image are blurred or they are semi transparent:
+

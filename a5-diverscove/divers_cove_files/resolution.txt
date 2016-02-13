@@ -1,0 +1,16 @@
+Choosing the Right Resolution 
+Monitor resolution (ppi), image resolution (ppi) and print resolution (screen frequency or lpi-lines per inch) 
+
+Web = 72ppi
+Printing to an inexpensive inkjet = 150-220ppi.
+Professional Printing = 300ppi-600ppi
+
+Scan at a resolution 1.5 to 2.0 the screen frequency (lpi). Check with your printer for output resolutions. Example: If the printer says the output is 150 lpi, scan at a minimum of 300ppi. 
+
+Basic Photo Correction 
+	1.	Determine use of photo. Black and White? Color? Newspaper? Brochure? Web?
+	2.	CMYK or RGB?
+	3.	Output – Correct Resolution for your needs
+	4.	Resize – Image size
+	5.	Retouch – Photo corrections
+	6.	Save in correct file format
